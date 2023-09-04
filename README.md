@@ -3,6 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=300&vCenter=true&width=435&lines=I'm+Fany+Octavia;Junior+Developer;Student+at+42+School+Paris)](https://git.io/typing-svg)
 
 Welcome to my GitHub profile !  
+  
 Here are some interesting projects I have been working on for the past years.
 
 _____________________________________________________________________________________________________________________________________________
@@ -12,8 +13,8 @@ ________________________________________________________________________________
 Developed a dynamic Pong game website using TypeScript with ReactJS library for the frontend, NestJs framework for the backend, and Prisma library for database management. Implemented an intuitive user interface, a real-time chat functionality, and consistent live gameplay.
 
 🛠️ • TypeScript • ReactJS • NestJS • Prisma ORM • SocketIO • Docker  
-
-_____________________________________________________________________________________________________________________________________________
+  
+_____________________________________________________________________________________________________________________________________________  
 
 ### [ft_irc](https://github.com/foctavia/ft_irc) | Internet Relay Chat Server Implementation
 
@@ -47,7 +48,8 @@ Resolved resource allocation challenges in concurrent programming through multit
 
 _____________________________________________________________________________________________________________________________________________
 
-You can find many more of other projects in my Repository
+You can check out my other projects in my [Repositories](https://github.com/foctavia?tab=repositories).  
+  
 Feel free to reach out to me for any inquiries or collaborations:
 
 - 📍  Paris, France 🇫🇷
