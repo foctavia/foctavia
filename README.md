@@ -2,58 +2,37 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=300&vCenter=true&width=435&lines=I'm+Fany+Octavia;Junior+Developer;Student+at+42+School+Paris)](https://git.io/typing-svg)
 
-## 42 Cursus
+Welcome to my GitHub profile ! Here are some interesting projects I have been working on for the past years.
 
-[![foctavia's 42 stats](https://badge42.vercel.app/api/v2/clgc0gxox001908m917gx52xy/stats?cursusId=21&coalitionId=45)](https://github.com/JaeSeoKim/badge42)
+## Projects
 
-## 42 Piscine | March 2022
+### ft_transcendence : Real-Time Pong Game Website
 
-[![foctavia's 42 stats](https://badge42.vercel.app/api/v2/clgc0gxox001908m917gx52xy/stats?cursusId=9&coalitionId=piscine)](https://github.com/JaeSeoKim/badge42)
+Developed a dynamic Pong game website using TypeScript with ReactJS library for the frontend, NestJs framework for the backend, and Prisma library for database management. Implemented an intuitive user interface, a real-time chat functionality, and consistent live gameplay.
 
-## 42 Projects | In Progress
+- 🛠️ TypeScript, ReactJS, NestJS, Prisma ORM, SocketIO, Docker
+- 🔗 [ft_transcendence](https://github.com/foctavia/ft_transcendence)
 
-#### ► inception      [![foctavia's 42 Inception Score](https://badge42.vercel.app/api/v2/clgc0gxox001908m917gx52xy/project/3051795)](https://github.com/JaeSeoKim/badge42)
+### ft_irc : Internet Relay Chat Server Implementation
 
-#### ► ft_irc         [![foctavia's 42 ft_irc Score](https://badge42.vercel.app/api/v2/clgc0gxox001908m917gx52xy/project/3003758)](https://github.com/JaeSeoKim/badge42)
+Created an IRC server following Internet RFC standards using C++. The project involved implementation of IRC protocol specications, resulting in a reliable server capable of facilitating real-time, text-based communication across networks.
 
-#### ► ft_containers  [![foctavia's 42 ft_containers Score](https://badge42.vercel.app/api/v2/clgc0gxox001908m917gx52xy/project/2990652)](https://github.com/JaeSeoKim/badge42)
+- 🛠️ C++, Network Protocol, Server Architecture
+- 🔗 [ft_irc](https://github.com/foctavia/ft_irc)
 
-#### ► CPP module08   [![foctavia's 42 CPP Module 08 Score](https://badge42.vercel.app/api/v2/clgc0gxox001908m917gx52xy/project/2943920)](https://github.com/JaeSeoKim/badge42)
+### cub3d : Retro-Style 3D Gaming Map
 
-#### ► CPP module07   [![foctavia's 42 CPP Module 07 Score](https://badge42.vercel.app/api/v2/clgc0gxox001908m917gx52xy/project/2941654)](https://github.com/JaeSeoKim/badge42)
+Implemented 3D game maps with C programming and ray casting technique, replicating the environment of Wolfenstein 3D game. Achieved immersive and dynamic graphics by seamlessly rendering walls, textures, and obstacles.
 
-#### ► CPP module06   [![foctavia's 42 CPP Module 06 Score](https://badge42.vercel.app/api/v2/clgc0gxox001908m917gx52xy/project/2941390)](https://github.com/JaeSeoKim/badge42)
+- 🛠️ C, Ray casting, 3D graphic
+- 🔗 [cub3d](https://github.com/foctavia/cub3d)
 
-#### ► CPP module05   [![foctavia's 42 CPP Module 05 Score](https://badge42.vercel.app/api/v2/clgc0gxox001908m917gx52xy/project/2937943)](https://github.com/JaeSeoKim/badge42)
+## Contact Information
 
-#### ► CPP module04   [![foctavia's 42 CPP Module 04 Score](https://badge42.vercel.app/api/v2/clgc0gxox001908m917gx52xy/project/2937022)](https://github.com/JaeSeoKim/badge42)
+Feel free to reach out to me for any inquiries or collaborations:
 
-#### ► CPP module03   [![foctavia's 42 CPP Module 03 Score](https://badge42.vercel.app/api/v2/clgc0gxox001908m917gx52xy/project/2933652)](https://github.com/JaeSeoKim/badge42)
+- 📍  Paris, France 🇫🇷
+- ✉️  [fo.fanyoctavia@gmail.com](mailto:fo.fanyoctavia@gmail.com)
+- 🔗 LinkedIn  [Fany Octavia](https://www.linkedin.com/in/fany-octavia/)
 
-#### ► CPP module02   [![foctavia's 42 CPP Module 02 Score](https://badge42.vercel.app/api/v2/clgc0gxox001908m917gx52xy/project/2932978)](https://github.com/JaeSeoKim/badge42)
-
-#### ► CPP module01   [![foctavia's 42 CPP Module 01 Score](https://badge42.vercel.app/api/v2/clgc0gxox001908m917gx52xy/project/2929147)](https://github.com/JaeSeoKim/badge42)
-
-#### ► CPP module00   [![foctavia's 42 CPP Module 00 Score](https://badge42.vercel.app/api/v2/clgc0gxox001908m917gx52xy/project/2926883)](https://github.com/JaeSeoKim/badge42)
-
-#### ► cub3d          [![foctavia's 42 cub3d Score](https://badge42.vercel.app/api/v2/clgc0gxox001908m917gx52xy/project/2902934)](https://github.com/JaeSeoKim/badge42)
-
-#### ► NetPractice    [![foctavia's 42 NetPractice Score](https://badge42.vercel.app/api/v2/clgc0gxox001908m917gx52xy/project/2852541)](https://github.com/JaeSeoKim/badge42)
-
-#### ► minishell      [![foctavia's 42 minishell Score](https://badge42.vercel.app/api/v2/clgc0gxox001908m917gx52xy/project/2824540)](https://github.com/JaeSeoKim/badge42)
-
-#### ► Philosophers   [![foctavia's 42 Philosophers Score](https://badge42.vercel.app/api/v2/clgc0gxox001908m917gx52xy/project/2731433)](https://github.com/JaeSeoKim/badge42)
-
-#### ► so_long        [![foctavia's 42 so_long Score](https://badge42.vercel.app/api/v2/clgc0gxox001908m917gx52xy/project/2680750)](https://github.com/JaeSeoKim/badge42)
-
-#### ► pipex          [![foctavia's 42 pipex Score](https://badge42.vercel.app/api/v2/clgc0gxox001908m917gx52xy/project/2618087)](https://github.com/JaeSeoKim/badge42)
-
-#### ► push_swap      [![foctavia's 42 push_swap Score](https://badge42.vercel.app/api/v2/clgc0gxox001908m917gx52xy/project/2602148)](https://github.com/JaeSeoKim/badge42)
-
-#### ► Born2BeRoot    [![foctavia's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/clgc0gxox001908m917gx52xy/project/2593077)](https://github.com/JaeSeoKim/badge42)
-
-#### ► get_next_line  [![foctavia's 42 get_next_line Score](https://badge42.vercel.app/api/v2/clgc0gxox001908m917gx52xy/project/2587310)](https://github.com/JaeSeoKim/badge42)
-
-#### ► ft_printf      [![foctavia's 42 ft_printf Score](https://badge42.vercel.app/api/v2/clgc0gxox001908m917gx52xy/project/2585575)](https://github.com/JaeSeoKim/badge42)
-
-#### ► libft          [![foctavia's 42 Libft Score](https://badge42.vercel.app/api/v2/clgc0gxox001908m917gx52xy/project/2579721)](https://github.com/JaeSeoKim/badge42)
+Thanks for visiting my GitHub profile! 😄
