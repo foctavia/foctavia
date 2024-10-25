@@ -1,10 +1,10 @@
 ### Hello there 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=300&vCenter=true&width=435&lines=I'm+Fany+Octavia;Junior+Developer;Student+at+42+School+Paris)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=300&vCenter=true&width=435&lines=I'm+Fany+Octavia;Junior+Full+Stack+Developer)](https://git.io/typing-svg)
 
 Welcome to my GitHub profile !  
   
-Here are some interesting projects I have been working on for the past years.
+Here are some interesting projects I have been working on during my training days.
 
 _____________________________________________________________________________________________________________________________________________
 
